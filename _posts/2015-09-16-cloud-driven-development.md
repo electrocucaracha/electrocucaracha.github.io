@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  "Cloud-Driven Development"
-date:   2015-09-15 16:24:55 -0500
-categories: jekyll update
 ---
 Even today, environments dedicated entirely to support projects during its
 development and/or testing phases are under-utilised during non-working
