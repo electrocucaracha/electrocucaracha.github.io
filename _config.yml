@@ -1,29 +1,19 @@
 title: Victor Morales
 email: chipahuac@hotmail.com
-description: > # this means to ignore newlines until "baseurl:"
-    A passionate Software Engineer with an interest in automated software
-    development, who enjoys building solutions that are easy to use, scale
-    and adapt. Supporter of the DevOps culture and have successfully lead
-    teams using Agile methodologies.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://electrocucaracha.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: >
+    This blog is a complementary of the articles published in
+    http://electrocucaracha.com and pretends to collect articles
+    written in english.
+baseurl: "/"
+url: "http://electrocucaracha.github.io"
 twitter_username: electrocucarach
 github_username:  electrocucaracha
+rss: rss
+flickr_username: electrocucaracha
+linkedin_username: electrocucaracha
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
