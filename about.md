@@ -4,14 +4,13 @@ title: About me
 permalink: /about/
 ---
 
-I’m a self-learner, avid reader and passionate person. As a leader, I
-help teams during all the software development phases from gathering
-requirements to deployment. I focus on planning, designing and
-delivering high impact solutions to emerging issues using best of breed
-tools. I have proven success in managing and delivering on time
-different projects. As a Cloud Software Engineer, I’m interested on
-architecting automated and distributed software solutions that are easy
-to use, scale and adapt. I’m a fervent supporter of the DevOps culture,
-lastly motivated for Software Defined Networking(SDN) technologies.
+I’m an enthusiastic software engineer with experience on developing
+applications. An energetic project lead which coordinates teams for
+building complex solutions. I help businesses on design high impact
+solutions for fixing emerging issues through the best of breed tools.
+I have proven success in delivering on time projects. Interested on
+architecting automated and distributed software solutions that are
+easy to use, scale and adapt. Fervent supporter of the DevOps culture
+and motivated for Software Defined Networking(SDN) technologies.
 
 [Spanish blog](http://electrocucaracha.com/)
