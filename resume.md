@@ -8,31 +8,32 @@ title: Resume
 ---
 
 **Intel Corporation**
-*Cloud Software Engineer / Project Lead (May 2011 - Present)*
+*Cloud Solutions Architect (May 2011 - Present)*
 
-* Project lead of the [ONAP MultiCloud/K8s plugin implementation][1]
-for managing the VNF workloads in Kubernetes. Promoted as ONAP
-MultiCloud Committer.
-* Creator and main maintainer of [Devtool project][2] which collects
-instructions for provisioning ONAP development environments
-automatically.
-* Enabled the execution of [OPNFV XCI project][3] inside of corporate
+* Implemented an [unattended solution][7] used by TMEs for
+demonstrating HTTPS performance of Intel QuickAssist Technology
+devices.
+* Led the [ONAP MultiCloud/K8s plugin implementation][6] for managing
+the VNF workloads in Kubernetes. Promoted as ONAP MultiCloud
+Committer.
+* Created the [Devtool project][5] which collects instructions for
+provisioning ONAP development environments automatically.
+* Enabled the execution of [OPNFV XCI project][4] inside of corporate
 networks.
 * OpenStack Contributor from Havana to Pike release on several
 projects like Neutron, Devstack, Horizon, Glance, Oslo and Keystone.
 Performing activities like reporting bugs, fixing issues and reviewing
 source code.
-* Creator and main maintainer of the [command line program][4] for
-consuming the Tricircle API. Promoted as OpenStack Tricircle Core
-Contributor.
-* Project lead of the [ClearLinux Cloud team][5]. Responsible for the
-RPM packaging duties of OpenStack services and the booting time
-reduction of the OpenStack instances in ClearLinux.
-* [OpenStackGDL community Co-Founder][6] with +1K registered members.
-* Stabilization and CPU/Memory usage reduction of the Internal cloud
+* Created a [command line program][3] for consuming the Tricircle API.
+Promoted as OpenStack Tricircle Core Contributor.
+* Led the [ClearLinux Cloud team][2]. Packaging the RPM of the
+OpenStack services and reducing the booting time of the OpenStack
+instances created on ClearLinux.
+* [OpenStackGDL community Co-Founder][1] with +1K registered members.
+* Improved the CPU/Memory usage reduction of the Internal cloud
 implementation. Solution which hosted +6K Virtual Machines.
-* OpenStack Customization. Adapting the provisioning processes for
-meeting internal IT policies.
+* Helped for the OpenStack internal implementation. Modifying the
+provisioning processes to meet internal IT policies.
 * Integrated an internal tool that monitors events and manages
 notifications triggered by Virtual Machines in OpenStack.
 * Improved an internal solution used for automate the provisioning of
@@ -70,8 +71,7 @@ internal website.
 **Panadocument**
 *C# Developer (Oct 2006 – Feb 2007)*
 
-* Implemented the integration of Ascent Capture software with the ECM
-application.
+* Integrated of Ascent Capture software with the ECM application.
 
 **Medisist S. A. de C. V.**
 *Project Leader (Dec 2005 – Oct 2006)*
@@ -110,19 +110,20 @@ Basic, HTML, SQL, Python, PHP and JavaScript.
 * **Software:** MS Visual Studio .NET, MS Visual Basic 6.0, Rational
 Software Development, NetBeans, PyCharm, Tomcat, KVM, VMWare, Libvirt,
 MySQL/MariaDB, MS SQL Server, Informix, LogStash, ElasticSearch,
-Puppet, Ansible, Vagrant, RabbitMQ, Docker.
+Prometheus, Puppet, Ansible, Vagrant, Terraform, RabbitMQ, Docker, SQL
+AlwaysOn, SQL Mirroring, OpenStack, ONAP, Kubernetes, Helm, Grafana.
 
 * **Methodologies:** CI/CD, PSP, CMMI, TDD and SCRUM.
 
 * **Other:** RPM packaging, RESTful and SOAP web services, windows
 services, systemd, Servlets, Applets, JSP, Ajax, COM components, Java
 Beans, EJB, .NET Remoting, RMI, MVC, XML, json, yaml, ASP .NET, Swing,
-AWT, WPF, WWF, jquery, LINQ, MVVM, WMI, SQL AlwaysOn, SQL Mirroring,
-XSD, OpenStack, Kubernetes, Terraform.
+AWT, WPF, WWF, jquery, LINQ, MVVM, WMI, XSD.
 
-[1]: https://git.onap.org/multicloud/k8s/
-[2]: https://git.onap.org/integration/devtool/
-[3]: https://git.opnfv.org/releng-xci/
-[4]: http://git.openstack.org/cgit/openstack/python-tricircleclient/
-[5]: https://clearlinux.org/
-[6]: https://www.meetup.com/OpenStack-GDL/
+[1]: https://www.meetup.com/OpenStack-GDL/
+[2]: https://clearlinux.org/
+[3]: http://git.openstack.org/cgit/openstack/python-tricircleclient/
+[4]: https://git.opnfv.org/releng-xci/
+[5]: https://git.onap.org/integration/devtool/
+[6]: https://git.onap.org/multicloud/k8s/
+[7]: https://github.com/intel/kubernetes-qat-envoy
