@@ -7,9 +7,32 @@ title: Resume
 ### Employment
 ---
 
-**Intel Corporation**
-*Cloud Solutions Architect (May 2011 - Present)*
+**Samsung Research America**
+*Senior Staff Software Engineer (March 2020 – Present)*
 
+* Represented Samsung in the [CNCF/CNF Working Group][9], where best practices
+for Cloud-Native Network Functions (CNF) are defined.
+* Launched a [Core Network project][10] which can be used as a reference for CNF
+developers.
+* Organized the efforts to translate the CNCF documentation to Spanish language.
+Earned the approver role in the [Kubernetes site][11] and [CNCF Glossary][12]
+projects.
+* Co-founder of Cloud-Native El Salvador group.
+* Improved CNF portability through the creation of NSM sidecar and Webhook
+Injector projects so multiple heterogeneous network definitions are supported
+using Pod’s annotations.
+* Decreased the CI network consumption of the [Matter project][13] saving
+~842 GB per weekday in downloads. Earned the approver role in the project.
+* Boosted the deployment method for the [Distributed Compliance Ledger
+project][14]. This new method offers an automated way to provision, resulting
+in reduction of end-to-end provisioning from hours to minutes.
+
+**Intel Corporation**
+*Cloud Solutions Architect (May 2011 - March 2020)*
+
+* Delivered the [Kubernetes Reference Deployment tool][8] used for deploying
+advanced scenarios (SR-IOV, CRI-O, Kubevirt/Virtlet, etc.). Contributed to
+Kubernetes-SIG/Kubespray project.
 * Implemented an [unattended solution][7] used by TMEs for
 demonstrating HTTPS performance of Intel QuickAssist Technology
 devices.
@@ -107,18 +130,20 @@ Solaris.
 * **Programming languages:** Go, Java, Shell scripting, C#, Visual
 Basic, HTML, SQL, Python, PHP and JavaScript.
 
-* **Software:** MS Visual Studio .NET, MS Visual Basic 6.0, Rational
-Software Development, NetBeans, PyCharm, Tomcat, KVM, VMWare, Libvirt,
-MySQL/MariaDB, MS SQL Server, Informix, LogStash, ElasticSearch,
-Prometheus, Puppet, Ansible, Vagrant, Terraform, RabbitMQ, Docker, SQL
-AlwaysOn, SQL Mirroring, OpenStack, ONAP, Kubernetes, Helm, Grafana.
+* **DevOps Tools:** Kubernetes, OpenStack, ONAP, Helm, Docker, KVM, VMWare,
+Puppet, Ansible, Vagrant, Terraform, OpenShift, Jenkins, Libvirt, LogStash,
+ElasticSearch, Prometheus, RabbitMQ, GitHub Actions.
+
+* **Software:** git, cvs. svn, MS Visual Studio .NET, Grafana,
+MS Visual Basic 6.0, Rational Software Development, NetBeans, PyCharm, Tomcat,
+Eclipse.
 
 * **Methodologies:** CI/CD, PSP, CMMI, TDD and SCRUM.
 
-* **Other:** RPM packaging, RESTful and SOAP web services, windows
-services, systemd, Servlets, Applets, JSP, Ajax, COM components, Java
-Beans, EJB, .NET Remoting, RMI, MVC, XML, json, yaml, ASP .NET, Swing,
-AWT, WPF, WWF, jquery, LINQ, MVVM, WMI, XSD.
+* **Other:** RPM packaging, RESTful, Web services, windows services, Servlets,
+Applets, JSP, Ajax, COM components, Java Beans, EJB, .NET Remoting, RMI, MVC,
+XML, XSD, json, yaml, ASP .NET, Swing, AWT, WPF, WWF, jQuery, LINQ, MVVM, WMI,
+Cosmos SDK, Tendermint Core.
 
 [1]: https://www.meetup.com/OpenStack-GDL/
 [2]: https://clearlinux.org/
@@ -127,3 +152,10 @@ AWT, WPF, WWF, jquery, LINQ, MVVM, WMI, XSD.
 [5]: https://git.onap.org/integration/devtool/
 [6]: https://git.onap.org/multicloud/k8s/
 [7]: https://github.com/intel/kubernetes-qat-envoy
+[8]: https://github.com/electrocucaracha/krd
+[9]: https://github.com/cncf/cnf-wg
+[10]: https://github.com/gw-tester/
+[11]: https://github.com/kubernetes/website/
+[12]: https://github.com/cncf/glossary/
+[13]: https://github.com/project-chip/connectedhomeip
+[14]: https://github.com/zigbee-alliance/distributed-compliance-ledger/
