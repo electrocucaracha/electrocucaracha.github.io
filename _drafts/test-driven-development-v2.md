@@ -3,8 +3,7 @@ layout: post
 title:  "Test-Driven Development v2.0"
 ---
 
-Test-Driven Development v2.0
-============================
+## Test-Driven Development v2.0
 
 Test-Driven Development has been defined as software development
 methodology where you write Unit Tests first before any initial

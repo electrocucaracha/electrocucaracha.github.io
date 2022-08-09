@@ -24,7 +24,7 @@ networks.
 projects like Neutron, Devstack, Horizon, Glance, Oslo and Keystone.
 Performing activities like reporting bugs, fixing issues and reviewing
 source code.
-* Created a [command line program][3] for consuming the Tricircle API.
+* Created a [command-line program][3] for consuming the Tricircle API.
 Promoted as OpenStack Tricircle Core Contributor.
 * Led the [ClearLinux Cloud team][2]. Packaging the RPM of the
 OpenStack services and reducing the booting time of the OpenStack
@@ -62,11 +62,11 @@ Java based server components.
 *Java Developer (Feb 2007 – Jul 2008)*
 
 * Helped during the creation a mirror solution for managing operations
-for the support website in Panama.
-* Maintaining and implementing new features for the internal website
+for the support site in Panama.
+* Maintaining and implementing new features for the internal site
 used by another department.
 * Analyzed the performance of the Informix databases used by the
-internal website.
+internal site.
 
 **Panadocument**
 *C# Developer (Oct 2006 – Feb 2007)*

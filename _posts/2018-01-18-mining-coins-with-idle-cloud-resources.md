@@ -23,13 +23,13 @@ remain idle until are used by someone.
 Multiple efforts have been developed to tackle these costs, most of
 them can be summarized in the following categories:
 
- - **Reduction of the energy consumption**. These techniques offer
+- **Reduction of the energy consumption**. These techniques offer
 the creation of algorithms for balancing workloads of a cloud
 computing implementation offering the alternative to shut down those
 unused resources. At server level, it’s possible to control the
 number of operative CPUs and/or cores of the server reducing the
 power consumption.
- - **Improve resource planning**. Their goal is to optimize the
+- **Improve resource planning**. Their goal is to optimize the
 number of resources required for the business through the monitoring
 of current and/or past workloads as source of prediction techniques.
 

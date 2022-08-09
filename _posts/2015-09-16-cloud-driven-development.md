@@ -10,7 +10,7 @@ Adapting software development processes in such a way that can only consume
 resources(servers) on demand during development and testing phases can
 significantly reduce costs and prevents information loss for an application.
 
-# Problem/Opportunity
+## Problem/Opportunity
 
 The process to create and configure environments is traditionally assigned to a
 single person and managed through a ticketing system whereby time and effort
@@ -23,7 +23,7 @@ project and verify its correct functionality, this process must not have
 workarounds or undocumented steps.  Additionally, the earlier detection of
 defects can simplify its resolution and reduce costs for the software
 development process. Therefore, creating working environments periodically can
-help to detect defects no matter the stage of the project. 
+help to detect defects no matter the stage of the project.
 
 Development and Testing environments are mainly used during working hours,
 meaning that almost two-thirds of their time the servers are in a state of
@@ -31,14 +31,14 @@ inactivity. Simple acts such as turning servers off when they are not used can
 reduce infrastructure operating costs. In order to make this a new habit, these
 actions must be done on a regular basis.
 
-# Solution
+## Solution
 
 Vagrant provides easy to configure, reproducible, and portable work environments
 built on top of industry-standard technology and controlled by a single
 consistent workflow to help maximize the productivity and flexibility of you
 and your team. Vagrant has the ability to manage virtual machines such as
 VirtualBox, VMware, KVM, and others. Lastly, boxes are the package format for
-Vagrant environments. 
+Vagrant environments.
 
 A base box is created from a minimal Operative System with the minimum set of
 software required for Vagrant to function.  Vagrant uses industry-standard
@@ -81,9 +81,9 @@ environment with devstack-vagrant project at the beginning of the day.  This new
 work environment will remain active until all changes have been tested and
 verified properly. Once all desired changes have been submitted to the OpenStack
 repositories, before ending the day, the work environment must be destroyed to
-release any resource. 
+release any resource.
 
-# Results
+## Results
 
 Adapting agile methodologies to consume only the resources that are needed can
 results in:
