@@ -3,7 +3,7 @@ layout: post
 title:  "Cloud-Driven Development"
 ---
 Even today, environments dedicated entirely to support projects during its
-development and/or testing phases are under-utilised during non-working
+development and/or testing phases are under-utilized during non-working
 hours. No matter the use of those servers they're always consuming energy for
 its operation, resulting in infrastructure operating costs for the company.
 Adapting software development processes in such a way that can only consume

@@ -47,7 +47,7 @@ Database installation issues.
 **Universidad Marista de Guadalajara**
 *Professor (May 2013 – Jul 2014)*
 
-* Taught Advanced Java Software Programing through the use of git.
+* Taught Advanced Java Software Programming through the use of git.
 
 **Tata Consultancy Services**
 *Java Developer (Jul 2008 – May 2011)*
