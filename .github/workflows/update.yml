@@ -20,9 +20,12 @@ on:
 jobs:
   check-dictionary:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # for technote-space/create-pr-action to push code
+      pull-requests: write  # for technote-space/create-pr-action to create a PR
     steps:
-      - uses: actions/checkout@v3
-      - uses: technote-space/create-pr-action@v2
+      - uses: actions/checkout@v4.1.2
+      - uses: technote-space/create-pr-action@v2.1.4
         with:
           EXECUTE_COMMANDS: |
             sudo apt-get update
