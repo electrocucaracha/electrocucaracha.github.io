@@ -24,7 +24,7 @@ jobs:
       contents: write  # for technote-space/create-pr-action to push code
       pull-requests: write  # for technote-space/create-pr-action to create a PR
     steps:
-      - uses: actions/checkout@v4.1.3
+      - uses: actions/checkout@v4.1.4
       - uses: technote-space/create-pr-action@v2.1.4
         with:
           EXECUTE_COMMANDS: |
